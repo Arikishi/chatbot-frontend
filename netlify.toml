@@ -1,7 +1,1 @@
-[build]
-command = "npm run dev"
-publish = "src"
-[dev]
-publish = "src"
-[functions]
-directory = custom absolute path to your functions
+
