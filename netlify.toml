@@ -1,0 +1,7 @@
+[build]
+command = "npm run build"
+publish = "dist"
+[dev]
+publish = "src"
+[functions]
+directory : custom absolute path to your functions
